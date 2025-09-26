@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Millionare</string>
+    <string name="answer_1">Ответ 1</string>
+    <string name="answer_2">Ответ 2</string>
+    <string name="answer_3">Ответ 3</string>
+    <string name="answer_4">Ответ 4</string>
+    <string name="question">Вопрос</string>
+    <string name="value">0</string>
+    <string name="win">YOU WIN! :)</string>
+    <string name="loose_text">YOU LOOSE! :(</string>
+    <string name="replay_message">Повторим ?</string>
+    <string name="ok">OK</string>
+</resources>
